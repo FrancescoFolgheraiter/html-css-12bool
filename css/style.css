@@ -17,7 +17,7 @@ html{
     font-size: 12px;
 }
 
-.row>*{
+.card{
     border:1px solid white;
     color:white;
     text-align: center;
@@ -29,6 +29,7 @@ html{
 
 .bg-green{
     background-color:rgb(15, 180, 15);
+    border:1px solid #064ead;
 }
 
 .margin-bot{
