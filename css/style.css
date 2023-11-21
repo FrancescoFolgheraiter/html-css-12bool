@@ -22,11 +22,11 @@ html{
     color:white;
     text-align: center;
     padding:10px 10px;
-}
-/*utility*/
-.bg-blue{
+    min-height: 40px;
     background-color:#064ead;
 }
+/*utility*/
+
 .bg-green{
     background-color:rgb(15, 180, 15);
 }
