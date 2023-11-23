@@ -41,4 +41,25 @@ html{
 .space-between{
     justify-content: space-between;
 }
+.align-items-center{
+    align-items: center;
+}
+.double-height-card{
+    min-height: 80px;
+}
+.d-flex{
+    display: flex;
+}
+.d-flex>*{
+    width: 100%;
+}
+.a-items-top{
+    align-items: start;
+}
+.a-items-center{
+    align-items: center;
+}
+.a-items-flex-end{
+    align-items: flex-end;
+}
 
